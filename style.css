@@ -1,0 +1,46 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 100px 0;
+  color: #333;
+}
+
+.services-section {
+  padding: 80px 0;
+  background-color: #f8f9fa;
+}
+
+.services-section h2 {
+  margin-bottom: 50px;
+}
+
+.card {
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+.contact-section {
+  padding: 80px 0;
+}
+
+.contact-section h2 {
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+}
+.first {
+  color: #fff
+}
